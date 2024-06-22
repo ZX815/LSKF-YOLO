@@ -1,0 +1,38 @@
+<annotation>
+	<folder>NZ_Dunedin_3.tif_分割</folder>
+	<filename>NZ_Dunedin_301x07.jpg</filename>
+	<path>C:\Users\10616\Desktop\NZ Raw Data\NZ_Dunedin_3.tif_分割\NZ_Dunedin_301x07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>333</ymin>
+			<xmax>300</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>157</ymin>
+			<xmax>503</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

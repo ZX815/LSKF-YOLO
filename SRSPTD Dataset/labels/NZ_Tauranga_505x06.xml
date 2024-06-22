@@ -1,0 +1,14 @@
+<annotation>
+	<folder>NZ_Tauranga_5.tif_分割</folder>
+	<filename>NZ_Tauranga_505x06.jpg</filename>
+	<path>D:\ZZY\数据集标注\遥感图\NZ_Tauranga_5.tif_分割\NZ_Tauranga_505x06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

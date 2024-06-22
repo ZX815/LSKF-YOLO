@@ -1,0 +1,26 @@
+<annotation>
+	<folder>USA_KS_Colwich_Maize_11.tif_分割</folder>
+	<filename>USA_KS_Colwich_Maize_1119x11.jpg</filename>
+	<path>D:\ZZY\数据集标注\遥感图\USA_KS_Colwich_Maize_11.tif_分割\USA_KS_Colwich_Maize_1119x11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>187</ymin>
+			<xmax>220</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

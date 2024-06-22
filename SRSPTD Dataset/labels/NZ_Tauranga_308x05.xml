@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NZ_Tauranga_3.tif_分割</folder>
+	<filename>NZ_Tauranga_308x05.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\苏子博\NZ_Tauranga_3.tif_分割\NZ_Tauranga_308x05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>213</ymin>
+			<xmax>489</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>USA_CT_Hartford_21.tif_分割</folder>
+	<filename>USA_CT_Hartford_2106x09.jpg</filename>
+	<path>D:\遥感数据集标注\李培杰\USA_CT_Hartford_21.tif_分割\USA_CT_Hartford_2106x09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
