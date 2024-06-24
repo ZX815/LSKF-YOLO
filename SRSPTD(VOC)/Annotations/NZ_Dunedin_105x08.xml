@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>NZ_Dunedin_105x08.jpg</filename>
+	<path>E:\Transmmison and Distribution Infrastucture Imagery Dataset\Sample Data\images\NZ_Dunedin_105x08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>128</ymin>
+			<xmax>93</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>60</ymin>
+			<xmax>120</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

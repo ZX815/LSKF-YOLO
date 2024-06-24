@@ -1,0 +1,26 @@
+<annotation>
+	<folder>USA_AZ_Tucson_6.tif_分割</folder>
+	<filename>USA_AZ_Tucson_601x23.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\苏子博\USA_AZ_Tucson_6.tif_分割\USA_AZ_Tucson_601x23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>223</ymin>
+			<xmax>151</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

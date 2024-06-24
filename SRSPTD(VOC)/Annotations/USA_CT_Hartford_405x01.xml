@@ -1,0 +1,26 @@
+<annotation>
+	<folder>USA_CT_Hartford_4.tif_分割</folder>
+	<filename>USA_CT_Hartford_405x01.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\输电线路卫星遥感数据集\梁龙萍\USA_CT_Hartford_4.tif_分割\USA_CT_Hartford_405x01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>196</ymin>
+			<xmax>118</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

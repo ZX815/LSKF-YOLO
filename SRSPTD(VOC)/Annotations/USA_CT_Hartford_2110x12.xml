@@ -1,0 +1,26 @@
+<annotation>
+	<folder>USA_CT_Hartford_21.tif_分割</folder>
+	<filename>USA_CT_Hartford_2110x12.jpg</filename>
+	<path>D:\遥感数据集标注\李培杰\USA_CT_Hartford_21.tif_分割\USA_CT_Hartford_2110x12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>231</ymin>
+			<xmax>484</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>USA_AZ_Tucson_7.tif_分割</folder>
+	<filename>USA_AZ_Tucson_722x06.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\输电线路卫星遥感数据集\梁龙萍\USA_AZ_Tucson_7.tif_分割\USA_AZ_Tucson_722x06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>398</ymin>
+			<xmax>349</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>
