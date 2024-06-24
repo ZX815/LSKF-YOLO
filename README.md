@@ -14,7 +14,7 @@
 * SRSPTD Dataset： This folder provides datasets in yolo annotated format that can be divided as needed
 * SRSPTD(VOC): This file provides a data set in VOC format, with the training set, verification set, and test set divided into 7:2:1 ratios
 * SRSPTD（5-k cross _val) : The file provides a 5-k cross-validation dataset in YOLO format, with a training set to validation set ratio of 8:2
-* Dataset Processing：This folder provides some data set format conversion, partition code files    
+* Some codes dealing with Electric Transmission and Distribution Infrastructure Imagery Dataset, data set segmentation, format conversion codes are provided    
   If you have any question about this dataset, feel free to contact zheng_xian0815@163.com/220222215007@ncepu.edu.cn.
 
  
