@@ -1,0 +1,9 @@
+names:
+- DT
+- TT
+path: /home/user/ZX/yolov5-test/datasets/ETDI/2023-10-17_5-Fold_Cross-val/split_1
+train: train
+val: val
+# Classes
+nc: 2  # number of classes
+names: ['DT', 'TT']  # class names
