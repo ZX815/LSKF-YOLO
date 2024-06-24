@@ -1,7 +1,7 @@
 # SRSPTD Dataset Used in LSKF-YOLO
-This project provides a power tower image data subset, named SRSPTD, obtained from the Electric Transmission and Distribution Infrastructure imagery Dataset re-cropped and annotated  
-If this dataset is helpful to your research, please cite our article in the citation format:  
-C. Shi, X. Zheng, Z. Zhao, K. Zhang, Z. Su and Q. Lu, "LSKF-YOLO: Large Selective Kernel Feature Fusion Network for Power Tower Detection in High-Resolution Satellite Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5620116, doi: 10.1109/TGRS.2024.3389056. 
+* This project provides a power tower image data subset, named SRSPTD, obtained from the Electric Transmission and Distribution Infrastructure imagery Dataset re-cropped and annotated  
+* If this dataset is helpful to your research, please cite our article in the citation format:  
+* C. Shi, X. Zheng, Z. Zhao, K. Zhang, Z. Su and Q. Lu, "LSKF-YOLO: Large Selective Kernel Feature Fusion Network for Power Tower Detection in High-Resolution Satellite Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024, Art no. 5620116, doi: 10.1109/TGRS.2024.3389056. 
 ## Electric Transmission and Distribution Infrastructure Imagery Dataset
 * This dataset comprises fully annotated high-resolution satellite and aerial images of transmission and distribution infrastructure, encompassing an area of approximately 321 square kilometers  across  14  cities  in 6  countries  on  5  continents. It covers diverse terrain types and human settlement densities.   
 * Data Availability : The dataset used in this study is supported by the Bass Connections Project of Duke University, USA. The datasets can be accessed from https://figshare.com/articles/Electric_Transmission_and_Distribution_Infrastructure_Imagery_Dataset/6931088.
